@@ -10,10 +10,6 @@ VSCode の初期設定に関するリポジトリです。
 
 - クローンする
 
-```bash
-$ git clone git@github.com:1zumisawashun/template-vscode.git
-$ cd template-vscode && code .
-```
 
 - VSCode が開いたら、サイドバー Extensions タブ → 検索欄「@recommended」で検索する
 
